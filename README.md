@@ -9,6 +9,6 @@
  
  Open the appxbundle to install the program.
 
- Oldest version: 5.1811 (Maybe)
+ Oldest version: 2.1703.21017 (Oldest i could find)
  
  Newest version: 2024.2410.13017.0
