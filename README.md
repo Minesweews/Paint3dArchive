@@ -10,4 +10,5 @@
  Open the appxbundle to install the program.
 
  Oldest version: Microsoft.MSPaint_5.1811 (Maybe)
+ 
  Newest version: Microsoft.MSPaint_2024.2410.13017.0
