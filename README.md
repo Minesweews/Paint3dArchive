@@ -8,3 +8,6 @@
  If you can't run paint 3d. I don't know how to fix that. i can't help with jack shit
  
  Open the appxbundle to install the program.
+
+ Oldest version: Microsoft.MSPaint_5.1811 (Maybe)
+ Newest version: Microsoft.MSPaint_2024.2410.13017.0
