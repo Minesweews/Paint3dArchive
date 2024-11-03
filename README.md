@@ -9,6 +9,10 @@
  
  Open the appxbundle to install the program.
 
- Oldest version: Microsoft.MSPaint_5.1811 (Maybe)
+ Oldest version: 5.1811 (Maybe)
  
- Newest version: Microsoft.MSPaint_2024.2410.13017.0
+ Newest version: 2024.2410.13017.0
+
+ # Disable the message
+
+ That's actually really simple. install 2024.2405.19017.0 instead of the latest version. 
